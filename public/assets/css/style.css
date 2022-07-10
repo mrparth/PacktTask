@@ -1,0 +1,9 @@
+.header-bar{
+    background-color: #3c3c3b;
+}
+.header-bar .logo-img{
+    width: 100%;
+}
+.main-wrapper{
+    background-image: url(/assets/images/misc/header-bgblur.jpg);
+}

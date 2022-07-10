@@ -1,0 +1,59 @@
+.product-desc-title{
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 32px;
+    color: #ec6611;
+}
+.product-desc-author{
+    color: gray;
+    font-weight: 600;
+    font-size: 16px;
+}
+.col-title{
+    font-weight: 600;
+    font-size: 14px;
+    flex: 0 0 13rem;
+}
+.col-value{
+    font-size: 14px;
+    flex: 1 0 0;
+}
+.cover-image{
+    width: 100%;
+    /* object-fit: contain; */
+}
+.loading-text{
+    text-align: center;
+    font-size: 22px;
+    font-weight: 500;
+}
+.product-tagline{
+    font-size: 16px;
+    line-height: 18px;
+}
+.product-description{
+    font-size: 16px;
+    line-height: 20px;
+}
+.product-about-this-book{
+    font-size: 18px;
+    font-weight: 600;
+    color: #ec6611;
+}
+.price-table-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 2px 0;
+}
+.product-table{
+    max-width: 22rem;
+    padding-inline-start: 0px;
+}
+.detail-main{
+    /* background-color: #ffa76f; */
+    background-image: url(/assets/images/misc/header-bgblur.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
